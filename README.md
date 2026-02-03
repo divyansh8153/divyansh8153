@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# About Me:
 Hi there, I am Divyansh<br>Currently pursuing Post graduation (MCA)<br>I’m currently learning Data analysis<br>Fun fact- Singer 🙂 + sportsman
 
 
