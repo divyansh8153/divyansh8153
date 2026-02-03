@@ -1,6 +1,6 @@
 
 # About Me:
-Hi there, I am Divyansh<br>📊 Dedicated learner in Data Analysis <br>🎬 Experienced in Video Editing<br>🎤 Singer with a creative mindset<br>🏸 Active Badminton player<br>🚀 Eager to learn, grow, and contribute to impactful projects
+👋Hi there, I am Divyansh<br>📊 Dedicated learner in Data Analysis <br>🎬 Experienced in Video Editing<br>🎤 Singer with a creative mindset<br>🏸 Active Badminton player<br>🚀 Eager to learn, grow, and contribute to impactful projects
 
 
 ## 🌐 Socials:
