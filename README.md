@@ -1,6 +1,8 @@
 
 # About Me:
-Hi there, I am Divyansh<br>Currently pursuing Post graduation (MCA)<br>I’m currently learning Data analysis<br>Fun fact- Singer 🙂 + sportsman
+Hi there, I am Divyansh<br>I am a dedicated learner focused on Data Analysis, building skills in working with data to generate meaningful insights. I also have experience in Video Editing, combining creativity with technical execution.
+
+In addition, I am a Singer and an active Badminton player, which reflects my discipline, consistency, and teamwork mindset. I am eager to learn, grow, and contribute to impactful projects.
 
 
 ## 🌐 Socials:
